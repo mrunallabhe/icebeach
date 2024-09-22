@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2de6cb63-4e26-43ef-9bdc-d4f4a28cf4f0"
+      }
+    },
+    "owner": "icexshadow"
   }
 }
